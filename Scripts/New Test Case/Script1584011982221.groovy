@@ -49,6 +49,7 @@ WebUI.click(findTestObject('Object Repository/Seamlesshr/a_Redeployment historyr
 WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Seamlesshr/a_Process'))
+WebUI.delay(10)
 
 WebUI.delay(5)
 
