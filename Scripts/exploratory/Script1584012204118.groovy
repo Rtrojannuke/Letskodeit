@@ -17,6 +17,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
+Webdriver driver = new Webdriver()
 
 WebUI.navigateToUrl('https://www.letskodeit.com/')
 
